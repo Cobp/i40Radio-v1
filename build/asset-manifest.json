@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98a25e2d.css",
+    "main.js": "/static/js/main.ed0c7a1f.js",
+    "static/media/LE.jpg": "/static/media/LE.e1db0deb8470851a13e3.jpg",
+    "static/media/logo_with_orange_bg.jpg": "/static/media/logo_with_orange_bg.affc165cbb4164b48057.jpg",
+    "static/media/ScreenHome.jpeg": "/static/media/ScreenHome.3905e8e89a6f47661bb6.jpeg",
+    "static/media/image2_Spotify.jpeg": "/static/media/image2_Spotify.ae76bed70d40ece90c69.jpeg",
+    "static/media/CCLF.jpg": "/static/media/CCLF.1a4b62bf8e41bcedd312.jpg",
+    "static/media/DM.jpg": "/static/media/DM.fb05d510df39f2f04b0f.jpg",
+    "static/media/image3_Contacto.jpg": "/static/media/image3_Contacto.eba3828b8ed0670b0be6.jpg",
+    "static/media/image1.jpeg": "/static/media/image1.d15e7c86acfbf73f3b91.jpeg",
+    "static/media/VDLV.jpg": "/static/media/VDLV.2460db9376c9416d523f.jpg",
+    "static/media/logo_white.png": "/static/media/logo_white.f870eddbe2b91bf06e46.png",
+    "static/media/LALS.jpeg": "/static/media/LALS.6c3d547baea67141d453.jpeg",
+    "static/media/CED.jpg": "/static/media/CED.d65aaeb8c448bbf66411.jpg",
+    "static/media/Colab.jpg": "/static/media/Colab.403427b51adb0a2291a3.jpg",
+    "static/media/LQL.jpg": "/static/media/LQL.49b366baffc69477b2cf.jpg",
+    "static/media/DEi40.jpg": "/static/media/DEi40.6db7d3e34e491daf0557.jpg",
+    "static/media/VP.jpg": "/static/media/VP.f40fb3129cb528f2478b.jpg",
+    "index.html": "/index.html",
+    "main.98a25e2d.css.map": "/static/css/main.98a25e2d.css.map",
+    "main.ed0c7a1f.js.map": "/static/js/main.ed0c7a1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a25e2d.css",
+    "static/js/main.ed0c7a1f.js"
+  ]
+}
